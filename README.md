@@ -1,1 +1,1 @@
-# Verilog-Tic-tac-toe
+# verilog-tic-tac-toe
